@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "author": "Carlos",
+    "date": "2025-02-13T10:00:00",
+    "content": "O começo do livro demora um pouco para engrenar, mas nada que atrapalhe a leitura. A autora nos transporta para o mundo bruxo de forma fantástica, o que faz toda a diferença para mim.",
+    "replies": [
+      {
+        "id": "1.1",
+        "author": "Bob",
+        "date": "2025-02-13T10:15:00",
+        "content": "A dinâmica e a construção da amizade entre os três protagonistas são incríveis, especialmente com a Hermione.",
+        "replies": [
+          
+        {
+          "id": "1.1.1",
+          "author": "Joana",
+          "date": "2025-02-19T10:30:00",
+          "content": "Sim! Acompanhar o crescimento dele e dos amigos é muito gratificante. Dá uma sensação de nostalgia e conexão com os personagens.",
+          "replies": []
+        }
+      
+        ]
+      },
+      {
+        "id": "1.2",
+        "author": "Charlie",
+        "date": "2025-02-15T10:30:00",
+        "content": "Pra mim, o maior mérito do livro é a ambientação no mundo bruxo. É uma experiência imersiva acompanhar, pelos olhos do Harry, a novidade do mundo bruxo e suas excentricidades. A trama do livro é simples, mas intrigante.",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "author": "David",
+    "date": "2025-02-17T11:00:00",
+    "content": "Primeira vez lendo a saga Harry Potter, amei muito a experiência, conhecer melhor e ver de perto mais desses personagens fazem amar cada vez mais a saga",
+    "replies": []
+  },
+  {
+      "id": "3",
+      "author": "Fernanda",
+      "date": "2025-02-18T14:20:00",
+      "content": "Gostei muito do livro, mas achei algumas partes previsíveis. Mesmo assim, a magia do universo compensa qualquer detalhe.",
+      "replies": []
+    },
+    {
+      "id": "4",
+      "author": "Lucas",
+      "date": "2025-02-19T09:45:00",
+      "content": "O que mais me impressionou foi a evolução do Harry ao longo da história. Ele começa como um garoto comum e cresce com o passar dos livros.",
+      "replies": []
+    }
+]

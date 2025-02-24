@@ -1,0 +1,10 @@
+{
+    "common": {
+        "title": "Resenhas - Harry Potter",
+        "addReview": "Adicionar resenha",
+        "respond": "Responder",
+        "sendComment": "Enviar",
+        "emptyReplyMessage": "Favor, digite um comentário antes de enviar"
+    }
+}
+  
