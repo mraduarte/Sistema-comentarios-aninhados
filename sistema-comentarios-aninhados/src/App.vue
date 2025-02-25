@@ -10,16 +10,12 @@
 
 
 <script setup lang="ts">
-import { ref, onMounted } from "vue";
+import { ref } from "vue";
 import CommentList from "../src/components/CommentList.vue";
 
-const comments = ref([]);
+import commentsData from "./data/comments.json";
 
-//Inicia com as informações do json
-onMounted(async () => {
-  const response = await fetch("/src/data/comments.json");
-  comments.value = await response.json();
-});
+const comments = ref(commentsData);
 </script>
 
 <style scoped>
